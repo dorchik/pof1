@@ -266,9 +266,9 @@ section{
         }
     }
     .container{
-        background: url(img/formImage.png);
+        background: url(.../img/formImage.png);
         @media screen and(max-width:992px) {
-            background: url(img/backTrue992.png);
+            background: url(.../img/backTrue992.png);
             background-size: cover;
             background-repeat: no-repeat;
         }
@@ -335,7 +335,7 @@ section{
 .footer{
     margin-top: 150px;
     padding-top: 50px;
-    background: url(img/backF.png);
+    background: url(.../img/backF.png);
     .row{
         @media screen and(max-width:992px) {
             text-align: center;
